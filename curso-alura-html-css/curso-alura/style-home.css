@@ -1,25 +1,18 @@
-body {
-		
-}
-
 #banner {
-	width: 100%;	
+	width:100%;
 }
 
-.principal {
+.principal{
 	background: #CCCCCC;
 	padding: 30px;
 }
 
 .titulo-principal {
-	padding-left: 20px 0;
-	text-align: center;
-	background: url(bg.jpg);
-	color: #FFFFFF;
+	padding-left: 20px;
 }
 
 .titulo-centralizado {
-	text-align: center;
+	text-align: center
 }
 
 p {
@@ -27,16 +20,15 @@ p {
 }
 
 #missao {
-	font-size: 20px;
+	font-size: 20px
 }
 
-em strong	{
+em strong {
 	color: #FF0000;
 }
 
 .itens {
-	font-style: italic;
-	list-style-type: none;
+	font-style: italic
 }
 
 .beneficios {
